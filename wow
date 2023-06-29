@@ -1,0 +1,36 @@
+[
+  {
+    "number": 0,
+    "route": "NIS",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 1,
+    "route": "970X",
+    "destZ": "香港仔",
+    "destY": "長沙灣（甘泉街）",
+    "maxPZ": "3",
+    "priceZ1": "13.5",
+    "halfpriceZ1": "6.8",
+    "priceZ2": "8.0",
+    "halfpriceZ2": "4.0",
+    "priceZ3": "5.7",
+    "halfpriceZ3": "2.8",
+    "maxPY": "4",
+    "priceY1": "13.5",
+    "halfpriceY1": "6.8"
+     "priceY2": "12.1",
+    "halfpriceY2": "6.1"
+     "priceY3": "7.2",
+    "halfpriceY3": "3.6"
+     "priceY4": "6.4",
+    "halfpriceY4": "3.2"
+  }
+]
